@@ -1,0 +1,6 @@
+{
+    "name": "PHP 8.1 Dev Container",
+    "dockerFile": "Dockerfile",
+    "appPort": 8000,
+    "extensions": ["felixfbecker.php-pack"]
+}
